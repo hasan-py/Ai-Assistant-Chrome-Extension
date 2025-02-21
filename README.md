@@ -36,7 +36,7 @@ chrome://extensions/
 Follow these steps to use the Chrome extension on your browser:
 
 ### Step 1: Please collect your api key from: GPT or Gemini or Grok
-- Goto the tools website's dashbaord and generate api key
+- Goto the tools website's dashboard and generate api key
 - Note your api key and api endpoint
 
 ### Step 2: Open the extension popup from extension icon from the extension list
